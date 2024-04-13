@@ -48,4 +48,7 @@ Weather animations are chosen based on the main weather condition obtained from 
 - **Rain, Drizzle, Shower Rain**: `rainy.json`
 - **Thunderstorm**: `thunder.json`
 
+![ScreenShots](screenshot.png)
+
+
 
